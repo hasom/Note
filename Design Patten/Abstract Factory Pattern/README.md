@@ -22,4 +22,4 @@
 #### * 단점
 * 객체 구성 부분이 추가 되면 추상부분부터 수정해서 추가해 줘야 한다.
 
-[출처] Link: http://tiboy.tistory.com/entry/Factory-Pattern%EC%B6%94%EC%83%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4
+[출처] Link: http://tiboy.tistory.com/entry/Factory-Pattern추상-팩토리-패턴
